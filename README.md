@@ -1,6 +1,8 @@
 # Lab-683450431-9-การเขียนโปรแกรมเชิงวัตถุ
 #นายนันท์นิพัทธ์ อ่วมอินทร์
+
 #683450431-9
+
 The system consists of three main classes:
 
 1. Person (Abstract Class)
